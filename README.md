@@ -1,2 +1,2 @@
 # mtcli-indicator
-Indicador do mtcli para exportar cotaçõs
+Indicador do mtcli para exportar cotações
